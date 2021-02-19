@@ -1,0 +1,72 @@
+.box1{
+    width: 10%;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.line1{
+    border: 1px solid black;
+}
+
+.content{
+    text-align: center;
+}
+
+.sliders{
+    border: 1px solid black;
+    height: 500px;
+}
+
+.line2{
+    border: 1px solid black;
+    width: 20%;
+    transform: rotate(31deg);
+    position: relative;
+    top: 111px;
+}
+
+.line3{
+    border: 1px solid black;
+    width: 20%;
+    transform: rotate(-31deg);
+    position: relative;
+    top: 111px;
+    left: 66rem;
+}
+
+.line4{
+    border: 1px solid black;
+    width: 2px;
+    height: 50px;
+    position: relative;
+    left: 911px;
+    text-align: center;
+
+}
+
+.slide{
+    font-size: 51px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.chat{
+    position: relative;
+    left: 71rem;
+    border: 1px solid black;
+    width: 80px;
+    border-radius: 31px;
+    text-align: center;
+}
+
+.social{
+    text-align: center;
+    font-size: 31px;
